@@ -4,3 +4,4 @@ langchain_core
 langchain_groq
 langchain_community
 ipykernel
+dotenv

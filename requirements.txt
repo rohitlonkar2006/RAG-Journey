@@ -8,3 +8,4 @@ langchain_huggingface
 ipykernel
 dotenv
 sentence-transformers
+pypdf

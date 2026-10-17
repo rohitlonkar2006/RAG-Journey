@@ -9,3 +9,4 @@ ipykernel
 dotenv
 sentence-transformers
 pypdf
+pymupdf
